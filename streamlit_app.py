@@ -42,5 +42,3 @@ try:
   else:
     back_from_function = get_fruityvice_date(fruitchoice)
     streamlit.dataframe(back_from_function)
-    
-    
